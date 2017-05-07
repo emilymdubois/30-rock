@@ -1,3 +1,3 @@
 # 30 Rock
 
-:lemon: A random 30 Rock episode picker
+:point_right: emilymdubois.github.io/30-rock
