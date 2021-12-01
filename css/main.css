@@ -17,18 +17,14 @@ body {
 
 button {
   text-align: center;
-  padding: 15px 20px 15px 20px;
-  background-color: #ffda0c;
-  color: #fff;
-  border: none;
-  font-family: 'Roboto', san-serif;
-  font-size: 16px;
-}
-
-button:active, :focus {
-  outline: none;
+  height: 80px;
+  width: 80px;
+  background-color: #fff;
+  font-size: 30px;
+  border-radius: 50%;
+  border: #fff solid 5px;
 }
 
 button:hover {
-  outline: #ffe96e solid 5px;
+  border: #ffe96e solid 5px;
 }
